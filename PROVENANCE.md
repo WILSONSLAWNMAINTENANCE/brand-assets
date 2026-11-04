@@ -51,12 +51,8 @@ keeps the link from the new name to the old.
 
 Three of the 34 pictures show people rather than the work. The house rule for these pages is that nothing about family
 goes in them, so they were **not** copied into this repository; they stay in Christopher's folder, where they were.
-Which, by their original names, so he can find them:
 
-| Original name | Shows |
-|---|---|
-| `122704662_10157594132915267_3261597625936337006_n.jpg` and `…_n-2.jpg` | two portrait crops from one post: a man in a cap, and a woman |
-| `314397481_10158972731620267_7973427053727338769_n.jpg` | a man on the zero-turn mower with a small child on his lap |
+Three pictures (two portrait crops from one post, and one on the mower) show people rather than the work; they stay in the folder they came from, by their original names, for Christopher and Jeff to decide about. Nothing more is said about them here.
 
 If Jeff wants a portrait of himself on the profile, the one he chooses can be added here on his word, under a name that
 says what it is.
