@@ -1,0 +1,12 @@
+# PUBLIC-LANE-MEDIA.txt — folders whose pictures this public repository publishes on purpose.
+#
+# One folder per line, relative to this repository's root, under a header that says who chose it and when. A listed
+# folder covers its subfolders. It opens pictures and fonts whose bytes match their names, and nothing else: text, PDFs,
+# office files and binaries under it are read and refused exactly as anywhere else. The tripwire
+# (my-template/scripts/scan-public-lane.sh, run with --media on this file) never looks for this list inside the folder
+# it reads: what is being published does not get to vouch for itself.
+#
+# What is in photos/ and where each picture came from: PROVENANCE.md.
+
+approved by Christopher Wilson | 2026-11-04
+photos
